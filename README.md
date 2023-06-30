@@ -73,11 +73,11 @@
 
 - 重金属检查(Pb离子)
   - 硫代乙酰法
-    ![Screenshot 2023-06-30 at 09.38.53](./images/Screenshot 2023-06-30 at 09.38.53.png)
+    ![Screenshot 2023-06-30 at 09.38.53](./images/Screenshot%202023-06-30%20at%2009.38.53.png)
     - pH=3.5
 - 砷盐检查
-  ![Screenshot 2023-06-30 at 09.43.56](./images/Screenshot 2023-06-30 at 09.43.56.png)
-  ![Screenshot 2023-06-30 at 09.45.21](./images/Screenshot 2023-06-30 at 09.45.21.png)
+  ![Screenshot 2023-06-30 at 09.43.56](./images/Screenshot%202023-06-30%20at%2009.43.56.png)
+  ![Screenshot 2023-06-30 at 09.45.21](./images/Screenshot%202023-06-30%20at%2009.45.21.png)
   - 醋酸铅棉花的作用
     吸收硫化氢
   - 碘化钾与二氯化锡的作用
@@ -106,14 +106,14 @@
 结构式不用画手型
 
 - 水杨酸结构式
-  ![Screenshot 2023-06-30 at 09.52.03](./images/Screenshot 2023-06-30 at 09.52.03.png)
+  ![Screenshot 2023-06-30 at 09.52.03](./images/Screenshot%202023-06-30%20at%2009.52.03.png)
 - 阿司匹林结构式
-  ![Screenshot 2023-06-30 at 09.52.22](./images/Screenshot 2023-06-30 at 09.52.22.png)
+  ![Screenshot 2023-06-30 at 09.52.22](./images/Screenshot%202023-06-30%20at%2009.52.22.png)
 
 - 布洛芬结构式
-  ![Screenshot 2023-06-30 at 09.52.42](./images/Screenshot 2023-06-30 at 09.52.42.png)
+  ![Screenshot 2023-06-30 at 09.52.42](./images/Screenshot%202023-06-30%20at%2009.52.42.png)
 - 对乙酰氨基酚（扑热息痛）结构式
-  ![Screenshot 2023-06-30 at 09.53.00](./images/Screenshot 2023-06-30 at 09.53.00.png)
+  ![Screenshot 2023-06-30 at 09.53.00](./images/Screenshot%202023-06-30%20at%2009.53.00.png)
 
 鉴别反应
 
@@ -126,7 +126,7 @@
   - 酚羟基或苯甲酸类
 
 - 重氮化偶合反应（考试的时候要写详细点，分别写出重氮化反应和偶合反应的反应试剂）
-  ![Screenshot 2023-06-30 at 09.54.04](./images/Screenshot 2023-06-30 at 09.54.04.png)
+  ![Screenshot 2023-06-30 at 09.54.04](./images/Screenshot%202023-06-30%20at%2009.54.04.png)
   
   - 芳伯氨基或者潜在芳伯氨基（水解后产生）定性鉴别
 
@@ -136,20 +136,20 @@
 - 含量测定
   - 酸碱滴定法
     - 名词解释：中性乙醇（针对指示剂显中性）
-      ![Screenshot 2023-06-30 at 09.59.49](./images/Screenshot 2023-06-30 at 09.59.49.png)
+      ![Screenshot 2023-06-30 at 09.59.49](./images/Screenshot%202023-06-30%20at%2009.59.49.png)
 
 # 苯乙胺类肾上腺素药物的分析
 
 - 母核结构
-  ![Screenshot 2023-06-30 at 10.00.53](./images/Screenshot 2023-06-30 at 10.00.53.png)
+  ![Screenshot 2023-06-30 at 10.00.53](./images/Screenshot%202023-06-30%20at%2010.00.53.png)
 - 肾上腺素结构
-  ![Screenshot 2023-06-30 at 10.01.07](./images/Screenshot 2023-06-30 at 10.01.07.png)
+  ![Screenshot 2023-06-30 at 10.01.07](./images/Screenshot%202023-06-30%20at%2010.01.07.png)
 - 盐酸多巴胺结构
-  ![Screenshot 2023-06-30 at 10.01.21](./images/Screenshot 2023-06-30 at 10.01.21.png)
+  ![Screenshot 2023-06-30 at 10.01.21](./images/Screenshot%202023-06-30%20at%2010.01.21.png)
 - 盐酸去氧肾上腺素结构
-  ![Screenshot 2023-06-30 at 10.01.35](./images/Screenshot 2023-06-30 at 10.01.35.png)
+  ![Screenshot 2023-06-30 at 10.01.35](./images/Screenshot%202023-06-30%20at%2010.01.35.png)
 - 盐酸麻黄碱结构
-  ![Screenshot 2023-06-30 at 10.01.51](./images/Screenshot 2023-06-30 at 10.01.51.png)
+  ![Screenshot 2023-06-30 at 10.01.51](./images/Screenshot%202023-06-30%20at%2010.01.51.png)
 - 双缩脲反应（选择题） 麻黄碱、伪麻黄碱
 
 特殊杂质检查
@@ -176,7 +176,7 @@
 # 对氨基苯甲酸酯和酰苯胺类局麻药物的分析
 
 - 盐酸普鲁卡因结构式
-  ![Screenshot 2023-06-30 at 10.12.46](./images/Screenshot 2023-06-30 at 10.12.46.png)
+  ![Screenshot 2023-06-30 at 10.12.46](./images/Screenshot%202023-06-30%20at%2010.12.46.png)
 
 - 盐酸普鲁卡因特殊杂质检查
 
@@ -191,32 +191,32 @@
 # 二氢吡啶类钙通道阻滞药物的分析
 
 - 母核结构
-  ![Screenshot 2023-06-30 at 10.17.20](./images/Screenshot 2023-06-30 at 10.17.20.png)
+  ![Screenshot 2023-06-30 at 10.17.20](./images/Screenshot%202023-06-30%20at%2010.17.20.png)
 - 硝苯地平结构
-  ![Screenshot 2023-06-30 at 11.22.06](./images/Screenshot 2023-06-30 at 11.22.06.png)
+  ![Screenshot 2023-06-30 at 11.22.06](./images/Screenshot%202023-06-30%20at%2011.22.06.png)
   - 二氢吡啶环的还原性
     - 氧化还原滴定
   - 硝基
     - 重氮化反应
   - 含量测定
     - 铈量法
-      ![Screenshot 2023-06-30 at 10.18.16](./images/Screenshot 2023-06-30 at 10.18.16.png)
-      ![Screenshot 2023-06-30 at 10.18.34](./images/Screenshot 2023-06-30 at 10.18.34.png)
+      ![Screenshot 2023-06-30 at 10.18.16](./images/Screenshot%202023-06-30%20at%2010.18.16.png)
+      ![Screenshot 2023-06-30 at 10.18.34](./images/Screenshot%202023-06-30%20at%2010.18.34.png)
 
 # 巴比妥及苯并二氮杂卓类镇静催眠药物的分析
 
 - 母核结构
-  ![Screenshot 2023-06-30 at 10.19.24](./images/Screenshot 2023-06-30 at 10.19.24.png)
+  ![Screenshot 2023-06-30 at 10.19.24](./images/Screenshot%202023-06-30%20at%2010.19.24.png)
 
-![Screenshot 2023-06-30 at 10.19.55](./images/Screenshot 2023-06-30 at 10.19.55.png)
+![Screenshot 2023-06-30 at 10.19.55](./images/Screenshot%202023-06-30%20at%2010.19.55.png)
 
 - 巴比妥结构
-  ![Screenshot 2023-06-30 at 10.20.29](./images/Screenshot 2023-06-30 at 10.20.29.png)
+  ![Screenshot 2023-06-30 at 10.20.29](./images/Screenshot%202023-06-30%20at%2010.20.29.png)
 - 苯巴比妥结构
-  ![Screenshot 2023-06-30 at 10.20.42](./images/Screenshot 2023-06-30 at 10.20.42.png)
+  ![Screenshot 2023-06-30 at 10.20.42](./images/Screenshot%202023-06-30%20at%2010.20.42.png)
 - 硫喷妥钠结构
-  ![Screenshot 2023-06-30 at 10.20.58](./images/Screenshot 2023-06-30 at 10.20.58.png)
-  ![Screenshot 2023-06-30 at 10.21.36](./images/Screenshot 2023-06-30 at 10.21.36.png)
+  ![Screenshot 2023-06-30 at 10.20.58](./images/Screenshot%202023-06-30%20at%2010.20.58.png)
+  ![Screenshot 2023-06-30 at 10.21.36](./images/Screenshot%202023-06-30%20at%2010.21.36.png)
 
 银盐反应（定性定量都可以）
 
@@ -229,7 +229,7 @@
 # 吩噻嗪类抗精神病药物的分析
 
 钯离子，定性定量
-![Screenshot 2023-06-30 at 10.23.35](./images/Screenshot 2023-06-30 at 10.23.35.png)
+![Screenshot 2023-06-30 at 10.23.35](./images/Screenshot%202023-06-30%20at%2010.23.35.png)
 
 HPLC、TLC自身对照法
 
@@ -249,11 +249,11 @@ HPLC、TLC自身对照法
 
     参考教材例题： P301示例11-23，11-24
 
-    ![Screenshot 2023-06-30 at 10.25.19](./images/Screenshot 2023-06-30 at 10.25.19.png)
+    ![Screenshot 2023-06-30 at 10.25.19](./images/Screenshot%202023-06-30%20at%2010.25.19.png)
 
-    ![Screenshot 2023-06-30 at 10.26.00](./images/Screenshot 2023-06-30 at 10.26.00.png)
+    ![Screenshot 2023-06-30 at 10.26.00](./images/Screenshot%202023-06-30%20at%2010.26.00.png)
   
-    ![Screenshot 2023-06-30 at 10.26.34](./images/Screenshot 2023-06-30 at 10.26.34.png)
+    ![Screenshot 2023-06-30 at 10.26.34](./images/Screenshot%202023-06-30%20at%2010.26.34.png)
   
   - 薄层色谱
   
@@ -263,45 +263,45 @@ HPLC、TLC自身对照法
 
 ​		 参考教材例题： P322示例12-17
 
-​		![Screenshot 2023-06-30 at 10.27.44](./images/Screenshot 2023-06-30 at 10.27.44.png)
+​		![Screenshot 2023-06-30 at 10.27.44](./images/Screenshot%202023-06-30%20at%2010.27.44.png)
 
 # 喹啉与青蒿素类抗疟药物的分析
 
 - 青蒿素结构
-  ![Screenshot 2023-06-30 at 10.31.38](./images/Screenshot 2023-06-30 at 10.31.38.png)
+  ![Screenshot 2023-06-30 at 10.31.38](./images/Screenshot%202023-06-30%20at%2010.31.38.png)
 - 双氢青蒿素结构
-  ![Screenshot 2023-06-30 at 10.31.50](./images/Screenshot 2023-06-30 at 10.31.50.png)
+  ![Screenshot 2023-06-30 at 10.31.50](./images/Screenshot%202023-06-30%20at%2010.31.50.png)
 - 青蒿琥酯结构
-  ![Screenshot 2023-06-30 at 10.32.04](./images/Screenshot 2023-06-30 at 10.32.04.png)
+  ![Screenshot 2023-06-30 at 10.32.04](./images/Screenshot%202023-06-30%20at%2010.32.04.png)
 - 蒿甲醚结构
-  ![Screenshot 2023-06-30 at 10.32.17](./images/Screenshot 2023-06-30 at 10.32.17.png)
+  ![Screenshot 2023-06-30 at 10.32.17](./images/Screenshot%202023-06-30%20at%2010.32.17.png)
 
 绿喹啉反应（选择题）
-![Screenshot 2023-06-30 at 10.34.34](./images/Screenshot 2023-06-30 at 10.34.34.png)
+![Screenshot 2023-06-30 at 10.34.34](./images/Screenshot%202023-06-30%20at%2010.34.34.png)
 
 含量测定
 
 - 硫酸奎宁（看书）⭐️⭐️⭐️⭐️⭐️
-  ![Screenshot 2023-06-30 at 10.35.35](./images/Screenshot 2023-06-30 at 10.35.35.png)
+  ![Screenshot 2023-06-30 at 10.35.35](./images/Screenshot%202023-06-30%20at%2010.35.35.png)
 
-​	![Screenshot 2023-06-30 at 10.35.59](./images/Screenshot 2023-06-30 at 10.35.59.png)	![Screenshot 2023-06-30 at 10.36.15](./images/Screenshot 2023-06-30 at 10.36.15.png)
+​	![Screenshot 2023-06-30 at 10.35.59](./images/Screenshot%202023-06-30%20at%2010.35.59.png)	![Screenshot 2023-06-30 at 10.36.15](./images/Screenshot%202023-06-30%20at%2010.36.15.png)
 
-![Screenshot 2023-06-30 at 10.36.38](./images/Screenshot 2023-06-30 at 10.36.38.png)
+![Screenshot 2023-06-30 at 10.36.38](./images/Screenshot%202023-06-30%20at%2010.36.38.png)
 
-![Screenshot 2023-06-30 at 10.36.51](./images/Screenshot 2023-06-30 at 10.36.51.png)
+![Screenshot 2023-06-30 at 10.36.51](./images/Screenshot%202023-06-30%20at%2010.36.51.png)
 
 青蒿素
 
 - 碘化钾鉴别
-  ![Screenshot 2023-06-30 at 10.37.33](./images/Screenshot 2023-06-30 at 10.37.33.png)
+  ![Screenshot 2023-06-30 at 10.37.33](./images/Screenshot%202023-06-30%20at%2010.37.33.png)
 - 异羟肟酸铁鉴别
-  ![Screenshot 2023-06-30 at 10.38.01](./images/Screenshot 2023-06-30 at 10.38.01.png)
+  ![Screenshot 2023-06-30 at 10.38.01](./images/Screenshot%202023-06-30%20at%2010.38.01.png)
 
 # 莨菪烷类抗胆碱药物的分析
 
 Vitaili反应（托烷类）
 
-![Screenshot 2023-06-30 at 10.38.46](./images/Screenshot 2023-06-30 at 10.38.46.png)
+![Screenshot 2023-06-30 at 10.38.46](./images/Screenshot%202023-06-30%20at%2010.38.46.png)
 
 生物碱显色剂和沉淀试剂
 
@@ -311,14 +311,14 @@ Vitaili反应（托烷类）
 
 - 酸性染料比色法
   - 名词解释
-    ![Screenshot 2023-06-30 at 10.39.42](./images/Screenshot 2023-06-30 at 10.39.42.png)
+    ![Screenshot 2023-06-30 at 10.39.42](./images/Screenshot%202023-06-30%20at%2010.39.42.png)
   
-    ![Screenshot 2023-06-30 at 10.40.39](./images/Screenshot 2023-06-30 at 10.40.39.png)
+    ![Screenshot 2023-06-30 at 10.40.39](./images/Screenshot%202023-06-30%20at%2010.40.39.png)
   - 简答题
     - 原理、注意事项（pH选择等5个）。
   
       原理：
-      ![Screenshot 2023-06-30 at 10.41.35](./images/Screenshot 2023-06-30 at 10.41.35.png)
+      ![Screenshot 2023-06-30 at 10.41.35](./images/Screenshot%202023-06-30%20at%2010.41.35.png)
       
       注意事项：
       
@@ -334,23 +334,23 @@ Vitaili反应（托烷类）
 
 - 维生素C结构
 
-![Screenshot 2023-06-30 at 10.51.53](./images/Screenshot 2023-06-30 at 10.51.53.png)
+![Screenshot 2023-06-30 at 10.51.53](./images/Screenshot%202023-06-30%20at%2010.51.53.png)
 
 - 维生素C（L-抗血酸）那一节反复看，全是重点，选择题，填空题，⭐️⭐️⭐️⭐️⭐️
-  ![Screenshot 2023-06-30 at 10.53.00](./images/Screenshot 2023-06-30 at 10.53.00.png)
-  ![Screenshot 2023-06-30 at 10.53.41](./images/Screenshot 2023-06-30 at 10.53.41.png)
-  ![Screenshot 2023-06-30 at 10.54.07](./images/Screenshot 2023-06-30 at 10.54.07.png)
-  ![Screenshot 2023-06-30 at 10.55.44](./images/Screenshot 2023-06-30 at 10.55.44.png)
-  ![Screenshot 2023-06-30 at 10.56.38](./images/Screenshot 2023-06-30 at 10.56.38.png)
-  ![Screenshot 2023-06-30 at 10.57.40](./images/Screenshot 2023-06-30 at 10.57.40.png)
+  ![Screenshot 2023-06-30 at 10.53.00](./images/Screenshot%202023-06-30%20at%2010.53.00.png)
+  ![Screenshot 2023-06-30 at 10.53.41](./images/Screenshot%202023-06-30%20at%2010.53.41.png)
+  ![Screenshot 2023-06-30 at 10.54.07](./images/Screenshot%202023-06-30%20at%2010.54.07.png)
+  ![Screenshot 2023-06-30 at 10.55.44](./images/Screenshot%202023-06-30%20at%2010.55.44.png)
+  ![Screenshot 2023-06-30 at 10.56.38](./images/Screenshot%202023-06-30%20at%2010.56.38.png)
+  ![Screenshot 2023-06-30 at 10.57.40](./images/Screenshot%202023-06-30%20at%2010.57.40.png)
   
 - 维生素A
   - 三氯化锑鉴别，可定量也可定性
-    ![Screenshot 2023-06-30 at 10.58.24](./images/Screenshot 2023-06-30 at 10.58.24.png)
+    ![Screenshot 2023-06-30 at 10.58.24](./images/Screenshot%202023-06-30%20at%2010.58.24.png)
 - 维生素B1
   - 生物碱的都能用
   - 硫色素反应
-    ![Screenshot 2023-06-30 at 10.58.57](./images/Screenshot 2023-06-30 at 10.58.57.png)
+    ![Screenshot 2023-06-30 at 10.58.57](./images/Screenshot%202023-06-30%20at%2010.58.57.png)
   
 - 维生素D
   - 全用HPLC
@@ -361,7 +361,7 @@ Vitaili反应（托烷类）
 # 甾体激素类药物的分析
 
 - 母核结构（要记编号，没有写编号不得分）
-  ![Screenshot 2023-06-30 at 10.59.47](./images/Screenshot 2023-06-30 at 10.59.47.png)
+  ![Screenshot 2023-06-30 at 10.59.47](./images/Screenshot%202023-06-30%20at%2010.59.47.png)
 
 - 肾上腺皮质激素
 
@@ -382,7 +382,7 @@ Kober反应
 
 - 雌激素唯一的一个专属性好的反应
 - 原理
-  ![Screenshot 2023-06-30 at 11.08.59](./images/Screenshot 2023-06-30 at 11.08.59.png)
+  ![Screenshot 2023-06-30 at 11.08.59](./images/Screenshot%202023-06-30%20at%2011.08.59.png)
 
 # 抗生素类药物的分析
 
@@ -391,10 +391,10 @@ Kober反应
 
 
 - 青霉素母核结构
-  ![Screenshot 2023-06-30 at 11.09.50](./images/Screenshot 2023-06-30 at 11.09.50.png)
+  ![Screenshot 2023-06-30 at 11.09.50](./images/Screenshot%202023-06-30%20at%2011.09.50.png)
 
 - 头孢菌素母核结构
-  ![Screenshot 2023-06-30 at 11.11.14](./images/Screenshot 2023-06-30 at 11.11.14.png)
+  ![Screenshot 2023-06-30 at 11.11.14](./images/Screenshot%202023-06-30%20at%2011.11.14.png)
 
 呈色反应
 
@@ -413,7 +413,7 @@ Kober反应
 # 合成抗菌药物的分析
 
 - 喹诺酮母核结构
-  ![Screenshot 2023-06-30 at 11.13.23](./images/Screenshot 2023-06-30 at 11.13.23.png)
+  ![Screenshot 2023-06-30 at 11.13.23](./images/Screenshot%202023-06-30%20at%2011.13.23.png)
 
 酸碱两性
 
@@ -422,7 +422,7 @@ Kober反应
 定性鉴别
 
 - 丙二酸反应
-  ![Screenshot 2023-06-30 at 11.14.32](./images/Screenshot 2023-06-30 at 11.14.32.png)
+  ![Screenshot 2023-06-30 at 11.14.32](./images/Screenshot%202023-06-30%20at%2011.14.32.png)
 
 - 磺胺类母核结构
   - 酸碱两性
@@ -444,7 +444,7 @@ Kober反应
       - 加屏蔽剂酒石酸屏蔽镁离子
   
     - 糖类
-      ![Screenshot 2023-06-30 at 11.28.48](./images/Screenshot 2023-06-30 at 11.28.48.png)
+      ![Screenshot 2023-06-30 at 11.28.48](./images/Screenshot%202023-06-30%20at%2011.28.48.png)
 
 注射液
 
@@ -456,15 +456,15 @@ Kober反应
 
 - 例题
 
-![Screenshot 2023-06-30 at 11.30.40](./images/Screenshot 2023-06-30 at 11.30.40.png)
+![Screenshot 2023-06-30 at 11.30.40](./images/Screenshot%202023-06-30%20at%2011.30.40.png)
 
-![Screenshot 2023-06-30 at 11.31.04](./images/Screenshot 2023-06-30 at 11.31.04.png)
+![Screenshot 2023-06-30 at 11.31.04](./images/Screenshot%202023-06-30%20at%2011.31.04.png)
 
-![Screenshot 2023-06-30 at 11.31.45](./images/Screenshot 2023-06-30 at 11.31.45.png)
+![Screenshot 2023-06-30 at 11.31.45](./images/Screenshot%202023-06-30%20at%2011.31.45.png)
 
-![Screenshot 2023-06-30 at 11.32.49](./images/Screenshot 2023-06-30 at 11.32.49.png)
+![Screenshot 2023-06-30 at 11.32.49](./images/Screenshot%202023-06-30%20at%2011.32.49.png)
 
-![Screenshot 2023-06-30 at 11.33.07](./images/Screenshot 2023-06-30 at 11.33.07.png)
+![Screenshot 2023-06-30 at 11.33.07](./images/Screenshot%202023-06-30%20at%2011.33.07.png)
 
 滴定分析：误差小，准确度高
 仪器分析：相对误差偏大，可以痕量分析
